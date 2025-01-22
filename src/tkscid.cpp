@@ -80,12 +80,12 @@ void scid_Exit(void*) {
  * \section Tests
  * Link to <a href="../gcov/index.html">code coverage</a>
  */
-int main(int argc, char* argv[]) {
-	scratchGame = new Game;
-	DBasePool::init();
+// int main(int argc, char* argv[]) {
+// 	scratchGame = new Game;
+// 	DBasePool::init();
 
-	return UI_Main(argc, argv, scid_Exit);
-}
+// 	return UI_Main(argc, argv, scid_Exit);
+// }
 
 
 
